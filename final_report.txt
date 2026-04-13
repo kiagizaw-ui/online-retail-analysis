@@ -53,6 +53,6 @@ Despite this early drop-off, a small group of customers continues to make purcha
 
 Customer behavior is divided between short-term buyers and long-term high-value customers, suggesting that improving early retention is key to increasing overall revenue.
 
-🎯 Final Conclusion
+ Final Conclusion
 
 The analysis reveals that revenue is not evenly distributed across customers, products, or regions. Instead, it is driven by a small group of high-value customers whose purchasing behavior creates concentrated patterns across all dimensions. Understanding and targeting this segment is essential for optimizing business performance.
